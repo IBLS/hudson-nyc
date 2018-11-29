@@ -1,6 +1,6 @@
 # hudson-nyc
 
-A 1.6 inch scale New York Central JE-1 Hudson based on Henry Greenly's design.
+A 1.6 inch scale New York Central J1E Hudson based on Henry Greenly's design.
 
 ## Getting Started
 
@@ -20,7 +20,9 @@ Please read [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c6
 
 ## Versioning
 
-We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/IBLS/hudson-nyc/tags). 
+This project uses [ISO 8601 timestamps](https://en.wikipedia.org/wiki/ISO_8601) for version numbers in the form of [YYYY][MM][DD][HH][MM].  For example, if you make a change at 1:49pm on 29 November, 2018 then your timestamp version would be 201811291349.  Please note [HH] is in miliary time.
+
+For the versions available, see the [tags on this repository](https://github.com/IBLS/hudson-nyc/tags). 
 
 ## Authors
 
