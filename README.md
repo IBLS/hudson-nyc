@@ -1,6 +1,6 @@
 # hudson-nyc
 
-A 1.6 inch scale New York Central JE-1 Hudson based on Henry Greenly's design.
+A 1.6 inch scale New York Central J1E Hudson based on Henry Greenly's design.
 
 ## Getting Started
 
